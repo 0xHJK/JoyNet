@@ -8,8 +8,6 @@
 - 将自动加载大事件改为点击加载，减少阅读压力和服务器负担
 - 删除了一些不必要的插件
 
-- 修改配置项，部署的时候只需要修改Index/Common/Conf/config.php里面的数据库配置
-
 
 
 ##需要修改的配置项
@@ -22,3 +20,6 @@
 - Index/Admin/View/index/admin.html 里面的url（js开始处的十二个）
 
 - 数据库结构
+
+##预览
+![preview](./preview.png)
